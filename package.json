@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-sample",
+  "name": "sourcegraph-nodejs-sample",
   "description": "node.js sample package for Sourcegraph",
   "repository": {
     "type": "git",
